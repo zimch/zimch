@@ -31,4 +31,4 @@
 
 # Сайт-визитка
 
-![Зайдите!](https://zimch.github.io/)
+[Зайдите!](https://zimch.github.io/)
