@@ -1,7 +1,8 @@
 ## Preview
 
-Hello! My name is Grisha and I am a Java developer. Recently I have been working in game dev.
-I work on the server-side of the product, I like 2D / 3D graphics. In the process of professional development
+Hi! My name is Gregory and I am a Java developer. Recently I have been working in Game Dev🦿.
+
+I work on the server-side of the product, I like 2D/3D graphics. In the process of professional development
 
 [My blog (in dev)](http://zimch.ru/)
 
