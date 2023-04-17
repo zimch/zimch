@@ -1,6 +1,6 @@
 ## Preview
 
-Hi! My name is Gregory and I am a Java developer. Recently I have been working in Game Dev🦿.
+Hi! My name is Gregory and I am a Java developer.
 
 I work on the server-side of the product, I like 2D/3D graphics. In the process of professional development
 
