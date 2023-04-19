@@ -25,7 +25,7 @@ I work on the server-side of the product, I like 2D/3D graphics. In the process 
 
 ## Some certificates
 
-[Нейронные сети и компьютерное зрение](https://stepik.org/cert/1280676)
+[Neural networks and computer vision](https://stepik.org/cert/1280676)
 
 # Contacts:
 
