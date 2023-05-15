@@ -9,7 +9,7 @@ I work on the server-side of the product, I like 2D/3D graphics. In the process 
 ## Skills
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/-Spring-green?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
