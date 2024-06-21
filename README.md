@@ -42,6 +42,6 @@
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zimch&theme=dark&background=000000)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimch&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook,css,scss,html)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimch&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook,css,scss,html,latex)]()
 
 </div>
