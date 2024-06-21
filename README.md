@@ -1,50 +1,47 @@
-<h1 align="center">Hi there, I'm <a href="http://zimch.ru" target="_blank">Gregory (aka @zimch)</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, Java backend developer from Russia</h3>
-
-<pre align="center" width=150px>
- ________  ___  _____ ______   ________  ___  ___              ________     
-|\_____  \|\  \|\   _ \  _   \|\   ____\|\  \|\  \         ___|\   ___ \    
- \|___/  /\ \  \ \  \\\__\ \  \ \  \___|\ \  \\\  \       |\__\ \  \_|\ \   
-     /  / /\ \  \ \  \\|__| \  \ \  \    \ \   __  \      \|__|\ \  \ \\ \  
-    /  /_/__\ \  \ \  \    \ \  \ \  \____\ \  \ \  \         __\ \  \_\\ \ 
-   |\________\ \__\ \__\    \ \__\ \_______\ \__\ \__\       |\__\ \_______\
-    \|_______|\|__|\|__|     \|__|\|_______|\|__|\|__|       \|__|\|_______|
-</pre>
-
-<h3 align="center">Skills</h3>
-
-<div align="center" id="back">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
-</div>
-
-<div align="center" id="front">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
+<div align="center">
 <div align="center" id="db">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <a href="mailto:gregoryshanin.job@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/zimch"><img src="https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white" /></a>
 </div>
 
-<h3 align="center">Some stats</h3>
+<h1>
+  hey there, i'm gregory!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zimch&theme=solarized_dark" /></div>
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zimch&theme=solarized_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zimch&theme=solarized_dark" />
-</div> -->
+### :man_technologist: about me :
 
-<h3 align="center">Contacts</h3>
+- :computer:I am a Backend Java developer with Full-Stack working expirience from Saint-Petersburg. 
+- :paperclip:Now working on electronic document management (EDO).
+- :mailbox:How to reach me: [![Teegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tekKz9)
 
-<div align="center" id="db">
-  <a href="mailto:gregoryshanin.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/zimch"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/zimch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+### :hammer_and_wrench: languages and tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original.svg" title="BackboneJS" alt="BackboneJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+
+<div align="center">
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zimch&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimch&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
